@@ -7,7 +7,7 @@ Este programa te permite descargar videos con distintos formatos y calidades de 
        src="https://github.com/user-attachments/assets/9c434980-77c6-44be-b33e-7294d804894b" />
 </p>
 
-Para que este funcione necesitas intalar las siguientes librerias de python
+Para que este funcione necesitas instalar las siguientes librerias de python
 
 • yt-dlp
 
