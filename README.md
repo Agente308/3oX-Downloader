@@ -1,11 +1,11 @@
 # 3oX-Downloader
 
+Este programa te permite descargar videos con distintos formatos y calidades de  plataformas como Facebook, TikTok, etc ademas sin marca de agua.
+
 <p align="center">
   <img width="847" height="941" alt="imagen"
        src="https://github.com/user-attachments/assets/9c434980-77c6-44be-b33e-7294d804894b" />
 </p>
-
-Este programa te permite descargar videos con distintos formatos y calidades de  plataformas como Facebook, TikTok, etc ademas sin marca de agua.
 
 Para que este funcione necesitas intalar las siguientes librerias de python
 
