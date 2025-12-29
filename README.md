@@ -27,4 +27,4 @@ Ahora que tienes todo esto ejecuta el programa y en configuracion ingresas la ru
 
 Y listo tienes 3oX Downloader funcionando para descargar lo que necesites de donde sea.
 
-
+Aviso: El programa descarga automáticamente el video en la mejor calidad y formato disponibles. No siempre se garantiza 8K, audio Opus, etc, ya que depende de las características del video original.
